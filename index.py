@@ -19,7 +19,7 @@ def main():
         else:
             while (txtName == ""):
                 print("Please don't leave a blank name")
-                txtName = input("Enter the text file name:")
+                txtName = input("Enter the text file name: incluse the .txt")
         
             if(txtName != ""):
                 while(os.path.isfile(txtName + '.txt')):
