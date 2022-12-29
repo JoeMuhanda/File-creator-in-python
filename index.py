@@ -75,6 +75,4 @@ def main():
             print("Opening the file..\n")
             os.startfile(txtName)
             input("Press enter to go back to menu...")
-            main()      
-
 
