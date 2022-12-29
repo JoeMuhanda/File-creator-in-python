@@ -8,8 +8,7 @@ def main():
         "==> 2 Write text file\n" +
           "==> 3 Open the text file")
 
-    print(startMenu)
-    txtInput = input("\nChoose an option:")
+    
 
    
     if txtInput == '1':
