@@ -77,10 +77,4 @@ def main():
             input("Press enter to go back to menu...")
             main()      
 
-    else:
-        print("\nPlease enter only the number in the menu\n")
-        input("Press enter to continue...")
-        main()
-
-main()
 
