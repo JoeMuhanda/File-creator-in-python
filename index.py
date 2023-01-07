@@ -9,6 +9,8 @@ def main():
           "==> 3 Open the text file")
 
 
+    print(startMenu)
+    txtInput = input("\nChoose an option:")
    
     if txtInput == '1':
         txtName = input("\nEnter the text file name or type q to back to menu:")
