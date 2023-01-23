@@ -42,7 +42,7 @@ def main():
                 print("\nFile not exist")
                 txtName = input("\nEnter the text file name or type q to back to menu:")
 
-                if(txtName == "q")
+                if(txtName == "q"):
                    main()
 
             print("\n" +txtName + " Has been opened!")
