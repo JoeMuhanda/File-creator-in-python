@@ -4,9 +4,7 @@ import os
 def main():
     print("****THIS IS A TEXT FILE CREATOR APP****")
     
-    startMenu = ("\n==> 1 Create text file\n" +
-        "==> 2 Write text file\n" +
-          "==> 3 Open the text file")
+    
 
 
     print(startMenu)
