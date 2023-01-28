@@ -14,7 +14,7 @@ startMenu = ("\n==> 1 Create text file\n" +
    
     if txtInput == '1':
         txtName = input("\nEnter the text file name or type q to back to menu:")
-        if(txtName == "q")
+        if(txtName == "q"):
            main() 
         else:
             while (txtName == ""):
