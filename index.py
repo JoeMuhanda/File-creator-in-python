@@ -87,18 +87,4 @@ startMenu = ("\n==> 1 Create text file\n" +
                 
                 
                 
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-       
-                
            
