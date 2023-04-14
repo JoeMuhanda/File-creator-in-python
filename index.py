@@ -75,7 +75,3 @@ startMenu = ("\n==> 1 Create text file\n" +
             input("Press enter to go back to menu...")
 
               main()    
-
-
-                
-    
