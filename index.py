@@ -105,5 +105,10 @@ startMenu = ("\n==> 1 Create text file\n" +
                 
                 
                 
-     
+     import os
+
+
+def main():
+    print("****THIS IS A TEXT FILE CREATOR APP****")
+    
                 
