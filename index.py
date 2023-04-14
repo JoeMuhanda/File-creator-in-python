@@ -76,3 +76,12 @@ startMenu = ("\n==> 1 Create text file\n" +
 
               main()    
 
+
+                
+                
+                import os
+
+
+def main():
+    print("****THIS IS A TEXT FILE CREATOR APP****")
+    
